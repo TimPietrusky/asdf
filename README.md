@@ -11,7 +11,14 @@
 <hr>
 
 <h2>Why?</h2>
-I created <b>asdf</b> because of the JavaScript coding competition for HTML5 game developers <a href="http://js13kgames.com" target="_blank">js13kGames 2012</a>
+<p>
+    I created <b>asdf</b> because of the JavaScript coding competition for HTML5 game developers <a href="http://js13kgames.com" target="_blank">js13kGames 2012</a>
+</p>
+
+<p>
+    You can play the game on my Koding.com workspace: <a href="http://timpietrusky.koding.com/asdf" target="_blank">asdf</a>
+</p>
+
 
 <hr>
 
