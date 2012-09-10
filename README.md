@@ -1,4 +1,4 @@
-            <h1>asdf</h1>
+<h1>asdf</h1>
            
             <p>
                 A remake of the 1978 launched <a href="http://en.wikipedia.org/wiki/Simon_(game)" target="_blank">Simon</a> electronic game! Why? <br> 2012 - 1978 = 34 mod <b>13</b> = 8 / 2 = 4! So? 4 buttons! 
