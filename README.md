@@ -16,7 +16,7 @@
 </p>
 
 <p>
-    You can play the game on my <a href="http://koding.com">Koding.com</a> workspace: <a href="http://timpietrusky.koding.com/asdf" target="_blank">asdf</a>
+    You can play the game on my <a href="http://koding.com" target="_blank">Koding.com</a> workspace: <a href="http://timpietrusky.koding.com/asdf" target="_blank">asdf</a>
 </p>
 
 
