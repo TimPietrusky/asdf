@@ -4,6 +4,8 @@
     A remake of the 1978 launched <a href="http://en.wikipedia.org/wiki/Simon_(game)" target="_blank">Simon</a> electronic game! Why? <br> 2012 - 1978 = 34 mod <b>13</b> = 8 / 2 = 4! So? 4 buttons! 
 </p>
 
+<img src="http://timpietrusky.koding.com/asdf/img/400x250.png">
+
 <p>
     This is a <button class="key">K</button>eyboard-<button class="key">O</button>nly-<button class="key">G</button>ame (KOG).
 </p>
