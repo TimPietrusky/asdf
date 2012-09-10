@@ -45,7 +45,7 @@
 
 <h2>Source</h2>
 <p>
-    <a href="http://codebase.es/riffwave/" target="_blank">asdf</a> on GitHub.
+    <a href="https://github.com/TimPietrusky/asdf" target="_blank">asdf</a> on GitHub.
 </p>
 
 <hr>
