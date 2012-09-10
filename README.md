@@ -6,6 +6,8 @@
 
 <img src="http://timpietrusky.koding.com/asdf/img/400x250.png>
 
+<hr>
+
 <h2>Why?</h2>
 I created <b>asdf</b> because of the JavaScript coding competition for HTML5 game developers <a href="http://js13kgames.com" target="_blank">js13kGames 2012</a>
 
