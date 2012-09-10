@@ -5,9 +5,8 @@
 </p>
 
 <p>
+    <img src="http://timpietrusky.koding.com/asdf/img/400x250.png" >
 </p>
-
-<br>
 
 <hr>
 
