@@ -52,14 +52,14 @@
 
 <h2>Powered by</h2>
 <p>
-    <a href="http://codebase.es/riffwave/" target="_blank">riffwave.js</a> by <a href="http://codebase.es">Pedro Ladaria</a> <br>
+    <a href="http://codebase.es/riffwave/" target="_blank">riffwave.js</a> by <a href="http://codebase.es" target="_blank">Pedro Ladaria</a> <br>
     A library that encodes audio data to a format that can be used to play synthesized sounds with the HTML5 audio element.
 </p>
 
 <hr>
 
 <p>
-    <a href="https://github.com/phiggins42/bloody-jquery-plugins/blob/master/pubsub.js" target="_blank">pubsub.js</a> by <a href="http://higginsforpresident.net/" target="_blank">Peter Higgins</a> <br>
+    <a href="https://github.com/phiggins42/bloody-jquery-plugins/blob/master/pubsub.js" taret="_blank">pubsub.js</a> by <a href="http://higginsforpresident.net/" target="_blank">Peter Higgins</a> <br>
     Ambiguous communication plugin. Small API surface. Publish some message to listeners.
 </p>
 
