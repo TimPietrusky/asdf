@@ -237,7 +237,7 @@
                    '</p>'+
                    '<hr>'+
                    '<p>'+
-                     '<a id="tweet-link" href="http://twitter.com/share?text=Can+you+beat+my+score+'+_this.dom.score.innerHTML+'+on+level+' + level + '+(' + _this.mode.getMode() + ')?&via=js13kgames&hashtags=asdf&url=http://js13kgames.com/entries/asdf" target="_blank"><button id="tweet" class="key">t</button> Tweet your score</a>'+
+                     '<a id="tweet-link" href="http://twitter.com/share?text=Can+you+beat+my+score+'+_this.dom.score.innerHTML+'+on+level+' + level + '+(' + _this.mode.getMode() + ')?&hashtags=asdf&url=http://timpietrusky.github.com/asdf" target="_blank"><button id="tweet" class="key">t</button> Tweet your score</a>'+
                    '</p>'+
                    '<hr class="small">'+
                    '<p>'+
