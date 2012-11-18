@@ -1,3 +1,13 @@
+/**
+ * asdf 
+ * 
+ * A remake (HTML5, CSS3, JS) of the 1978 launched Simon electronic game.
+ * https://github.com/TimPietrusky/asdf
+ * 
+ * Copyright (c) 2012 Tim Pietrusky
+ * See the file license.txt for copying permission.
+ */
+
 (function() {
     var _this;
     

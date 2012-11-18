@@ -63,6 +63,11 @@
     Ambiguous communication plugin. Small API surface. Publish some message to listeners.
 </p>
 
+## MIT License
+Copyright (c) 2012 Tim Pietrusky
+
+See the file license.txt for copying permission.
+
 <hr>
 <hr>
 
