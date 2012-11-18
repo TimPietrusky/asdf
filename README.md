@@ -20,8 +20,6 @@
 </p>
 
 
-<hr>
-
 <h2>KOG</h2>
 <p>
     This is a <button class="key">K</button>eyboard-<button class="key">O</button>nly-<button class="key">G</button>ame (KOG).
@@ -30,7 +28,6 @@
 <p>
     So please use your keyboard. There will maybe a clickable version later. 
 </p>
-<hr>
 
 <h2>Browser support</h2>
 <p>
@@ -41,13 +38,6 @@
 <p>
     Playable with <b>Firefox 15</b>.
 </p>
-<hr>
-
-<h2>Source</h2>
-<p>
-    <a href="https://github.com/TimPietrusky/asdf" target="_blank">asdf</a> on GitHub.
-</p>
-
 <hr>
 
 <h2>Powered by</h2>
