@@ -64,3 +64,7 @@ See the file license.txt for copying permission.
 <p>
     2012 by <a href="http://timpietrusky.com" target="_blank">Tim Pietrusky</a> for <a href="http://js13kgames.com" target="_blank">js13kGames 2012</a>
 </p>
+
+## Play online
+
+Also playable on [WASM Arcade](https://www.wasmarcade.online/arcade/asdf/) — free, no download.
